@@ -1,0 +1,8 @@
+ContadorAcumulador.csproj
+ContadorAcumulador.sln
+ContadorAcumulador.suo
+Properties/
+bin/
+obj/
+App.config
+.vs/
