@@ -1,6 +1,7 @@
 ContadorAcumulador.csproj
 ContadorAcumulador.sln
 ContadorAcumulador.suo
+.gitattributes
 Properties/
 bin/
 obj/
